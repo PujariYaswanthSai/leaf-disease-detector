@@ -133,10 +133,6 @@ kaggle==1.5.16
 - Capture the entire leaf when possible
 - Avoid shadows and glare
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
